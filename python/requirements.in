@@ -1,0 +1,6 @@
+pytest
+pytest-cache
+pylint
+jupyterlab
+pandas
+
